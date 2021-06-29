@@ -1,5 +1,5 @@
 
-package Queue;
+package no_2;
 
 public class Antrian {
     private int ukuran;
